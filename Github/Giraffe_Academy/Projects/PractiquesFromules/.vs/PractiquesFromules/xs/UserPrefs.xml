@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{7DCFCE37-B122-4F8F-B0A1-438A127DC8DD}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PractiquesFromules/EmptyClass.cs">
+    <Files>
+      <File FileName="PractiquesFromules/Program.cs" Line="7" Column="40" />
+      <File FileName="PractiquesFromules/EmptyClass.cs" Line="6" Column="40" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PractiquesFromules" expanded="True">
+            <Node name="PractiquesFromules" expanded="True">
+              <Node name="EmptyClass.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.PractiquesFromules PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

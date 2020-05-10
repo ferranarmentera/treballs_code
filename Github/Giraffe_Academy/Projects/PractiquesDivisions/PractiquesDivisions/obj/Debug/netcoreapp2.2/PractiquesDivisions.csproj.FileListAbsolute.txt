@@ -1,0 +1,11 @@
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/bin/Debug/netcoreapp2.2/PractiquesDivisions.deps.json
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/bin/Debug/netcoreapp2.2/PractiquesDivisions.runtimeconfig.json
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/bin/Debug/netcoreapp2.2/PractiquesDivisions.runtimeconfig.dev.json
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/bin/Debug/netcoreapp2.2/PractiquesDivisions.dll
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/bin/Debug/netcoreapp2.2/PractiquesDivisions.pdb
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/obj/Debug/netcoreapp2.2/PractiquesDivisions.csprojAssemblyReference.cache
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/obj/Debug/netcoreapp2.2/PractiquesDivisions.csproj.CoreCompileInputs.cache
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/obj/Debug/netcoreapp2.2/PractiquesDivisions.AssemblyInfoInputs.cache
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/obj/Debug/netcoreapp2.2/PractiquesDivisions.AssemblyInfo.cs
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/obj/Debug/netcoreapp2.2/PractiquesDivisions.dll
+/Users/fcolell/Projects/PractiquesDivisions/PractiquesDivisions/obj/Debug/netcoreapp2.2/PractiquesDivisions.pdb

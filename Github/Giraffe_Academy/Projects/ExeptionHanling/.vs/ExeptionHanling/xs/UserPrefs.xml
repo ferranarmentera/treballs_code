@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{5B2A9990-1EA3-4CBB-BAE0-B8128AE1985B}|Default">
+  <MonoDevelop.Ide.ItemProperties.ExeptionHanling PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ExeptionHanling/Program.cs">
+    <Files>
+      <File FileName="ExeptionHanling/Program.cs" Line="31" Column="99" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ExeptionHanling" expanded="True">
+            <Node name="ExeptionHanling" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="ExeptionHanling" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

@@ -1,0 +1,11 @@
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/obj/Debug/netcoreapp2.2/PractiquesFromules.csprojAssemblyReference.cache
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/obj/Debug/netcoreapp2.2/PractiquesFromules.csproj.CoreCompileInputs.cache
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/obj/Debug/netcoreapp2.2/PractiquesFromules.AssemblyInfoInputs.cache
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/obj/Debug/netcoreapp2.2/PractiquesFromules.AssemblyInfo.cs
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/bin/Debug/netcoreapp2.2/PractiquesFromules.deps.json
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/bin/Debug/netcoreapp2.2/PractiquesFromules.runtimeconfig.json
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/bin/Debug/netcoreapp2.2/PractiquesFromules.runtimeconfig.dev.json
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/bin/Debug/netcoreapp2.2/PractiquesFromules.dll
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/bin/Debug/netcoreapp2.2/PractiquesFromules.pdb
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/obj/Debug/netcoreapp2.2/PractiquesFromules.dll
+/Users/fcolell/Projects/PractiquesFromules/PractiquesFromules/obj/Debug/netcoreapp2.2/PractiquesFromules.pdb

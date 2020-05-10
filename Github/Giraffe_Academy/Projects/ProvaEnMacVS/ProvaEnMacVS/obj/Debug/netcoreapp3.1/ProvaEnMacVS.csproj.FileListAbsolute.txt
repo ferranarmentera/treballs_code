@@ -1,0 +1,12 @@
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/bin/Debug/netcoreapp3.1/ProvaEnMacVS.deps.json
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/bin/Debug/netcoreapp3.1/ProvaEnMacVS.runtimeconfig.json
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/bin/Debug/netcoreapp3.1/ProvaEnMacVS.runtimeconfig.dev.json
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/bin/Debug/netcoreapp3.1/ProvaEnMacVS.dll
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/bin/Debug/netcoreapp3.1/ProvaEnMacVS.pdb
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/obj/Debug/netcoreapp3.1/ProvaEnMacVS.csprojAssemblyReference.cache
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/obj/Debug/netcoreapp3.1/ProvaEnMacVS.csproj.CoreCompileInputs.cache
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/obj/Debug/netcoreapp3.1/ProvaEnMacVS.AssemblyInfoInputs.cache
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/obj/Debug/netcoreapp3.1/ProvaEnMacVS.AssemblyInfo.cs
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/obj/Debug/netcoreapp3.1/ProvaEnMacVS.dll
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/obj/Debug/netcoreapp3.1/ProvaEnMacVS.pdb
+/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/obj/Debug/netcoreapp3.1/ProvaEnMacVS.genruntimeconfig.cache

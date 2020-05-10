@@ -1,0 +1,12 @@
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/bin/Debug/netcoreapp3.1/ExeptionHanling.deps.json
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/bin/Debug/netcoreapp3.1/ExeptionHanling.runtimeconfig.json
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/bin/Debug/netcoreapp3.1/ExeptionHanling.runtimeconfig.dev.json
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/bin/Debug/netcoreapp3.1/ExeptionHanling.dll
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/bin/Debug/netcoreapp3.1/ExeptionHanling.pdb
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/obj/Debug/netcoreapp3.1/ExeptionHanling.csprojAssemblyReference.cache
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/obj/Debug/netcoreapp3.1/ExeptionHanling.csproj.CoreCompileInputs.cache
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/obj/Debug/netcoreapp3.1/ExeptionHanling.AssemblyInfoInputs.cache
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/obj/Debug/netcoreapp3.1/ExeptionHanling.AssemblyInfo.cs
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/obj/Debug/netcoreapp3.1/ExeptionHanling.dll
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/obj/Debug/netcoreapp3.1/ExeptionHanling.pdb
+/Users/fcolell/Projects/ExeptionHanling/ExeptionHanling/obj/Debug/netcoreapp3.1/ExeptionHanling.genruntimeconfig.cache

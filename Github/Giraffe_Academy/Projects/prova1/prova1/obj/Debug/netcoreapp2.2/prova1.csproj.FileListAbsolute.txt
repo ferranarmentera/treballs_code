@@ -1,0 +1,11 @@
+/Users/fcolell/Projects/prova1/prova1/bin/Debug/netcoreapp2.2/prova1.deps.json
+/Users/fcolell/Projects/prova1/prova1/bin/Debug/netcoreapp2.2/prova1.runtimeconfig.json
+/Users/fcolell/Projects/prova1/prova1/bin/Debug/netcoreapp2.2/prova1.runtimeconfig.dev.json
+/Users/fcolell/Projects/prova1/prova1/bin/Debug/netcoreapp2.2/prova1.dll
+/Users/fcolell/Projects/prova1/prova1/bin/Debug/netcoreapp2.2/prova1.pdb
+/Users/fcolell/Projects/prova1/prova1/obj/Debug/netcoreapp2.2/prova1.csprojAssemblyReference.cache
+/Users/fcolell/Projects/prova1/prova1/obj/Debug/netcoreapp2.2/prova1.csproj.CoreCompileInputs.cache
+/Users/fcolell/Projects/prova1/prova1/obj/Debug/netcoreapp2.2/prova1.AssemblyInfoInputs.cache
+/Users/fcolell/Projects/prova1/prova1/obj/Debug/netcoreapp2.2/prova1.AssemblyInfo.cs
+/Users/fcolell/Projects/prova1/prova1/obj/Debug/netcoreapp2.2/prova1.dll
+/Users/fcolell/Projects/prova1/prova1/obj/Debug/netcoreapp2.2/prova1.pdb

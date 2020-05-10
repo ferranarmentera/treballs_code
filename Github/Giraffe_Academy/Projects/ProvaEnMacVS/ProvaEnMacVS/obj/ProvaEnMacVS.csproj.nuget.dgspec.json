@@ -1,0 +1,61 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/ProvaEnMacVS.csproj": {}
+  },
+  "projects": {
+    "/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/ProvaEnMacVS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/ProvaEnMacVS.csproj",
+        "projectName": "ProvaEnMacVS",
+        "projectPath": "/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/ProvaEnMacVS.csproj",
+        "packagesPath": "/Users/fcolell/.nuget/packages/",
+        "outputPath": "/Users/fcolell/Projects/ProvaEnMacVS/ProvaEnMacVS/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/fcolell/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

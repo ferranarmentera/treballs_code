@@ -1,0 +1,29 @@
+﻿<Properties StartupConfiguration="{03AC29A9-9379-4DB5-97E2-5C97D9C30494}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Code/CShart_tutorials/Chapter03/BoolenaOperators/Program.cs">
+    <Files>
+      <File FileName="../../Code/CShart_tutorials/Chapter03/Operators/Program.cs" Line="5" Column="5" />
+      <File FileName="ProvaEnMacVS/Program.cs" Line="26" Column="61" />
+      <File FileName="../../Code/CShart_tutorials/Chapter03/BoolenaOperators/Program.cs" Line="8" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ProvaEnMacVS" expanded="True" selected="True">
+            <Node name="ProvaEnMacVS" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="FrameworkReferences" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.ProvaEnMacVS PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

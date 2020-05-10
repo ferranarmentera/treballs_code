@@ -1,0 +1,6 @@
+/Users/fcolell/Projects/visual_estudio_prova/visual_estudio_prova/bin/Debug/visual_estudio_prova.dll
+/Users/fcolell/Projects/visual_estudio_prova/visual_estudio_prova/bin/Debug/visual_estudio_prova.pdb
+/Users/fcolell/Projects/visual_estudio_prova/visual_estudio_prova/obj/Debug/visual_estudio_prova.csprojAssemblyReference.cache
+/Users/fcolell/Projects/visual_estudio_prova/visual_estudio_prova/obj/Debug/visual_estudio_prova.csproj.CoreCompileInputs.cache
+/Users/fcolell/Projects/visual_estudio_prova/visual_estudio_prova/obj/Debug/visual_estudio_prova.dll
+/Users/fcolell/Projects/visual_estudio_prova/visual_estudio_prova/obj/Debug/visual_estudio_prova.pdb

@@ -1,0 +1,12 @@
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/bin/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.deps.json
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/bin/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.runtimeconfig.json
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/bin/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.runtimeconfig.dev.json
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/bin/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.dll
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/bin/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.pdb
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/obj/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.csprojAssemblyReference.cache
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/obj/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.csproj.CoreCompileInputs.cache
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/obj/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.AssemblyInfoInputs.cache
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/obj/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.AssemblyInfo.cs
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/obj/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.dll
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/obj/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.pdb
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/LuckyNumbers_LoopTrials/obj/Debug/netcoreapp3.1/LuckyNumbers_LoopTrials.genruntimeconfig.cache

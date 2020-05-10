@@ -1,0 +1,33 @@
+POM Homoplier
+POM Copolymer
+PA6
+PA6 + 30% Glass
+PA66
+PA66 + 30% Glass
+PA66 + Mineral
+PBT
+PBT + 30% Glass
+PP + (Glass or Mineral)
+PPA + 50% (Glass or Mineral)
+HD-PE
+PC
+CA
+PPO-M (no reforzado)
+PPO-M (reforzado)
+PPS
+PET (Amorfo)
+PET (Cristalino)
+PMMA
+PP (Homo/Copolímero)
+PP (H/Co) (flujos largos)?
+PPVC (blando)
+UPVC (rígido)
+PS (GPPS)
+PS (GPPS) (paredes delgadas)
+HIPS
+HIPS (paredes delgadas)
+ABS
+AS (SAN)
+AS (SAN) (flujos largos)?
+LDPE
+HDPE (flujos largos)?

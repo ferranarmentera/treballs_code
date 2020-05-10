@@ -1,0 +1,12 @@
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/bin/Debug/netcoreapp3.1/exponentia_method_forloop.deps.json
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/bin/Debug/netcoreapp3.1/exponentia_method_forloop.runtimeconfig.json
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/bin/Debug/netcoreapp3.1/exponentia_method_forloop.runtimeconfig.dev.json
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/bin/Debug/netcoreapp3.1/exponentia_method_forloop.dll
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/bin/Debug/netcoreapp3.1/exponentia_method_forloop.pdb
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/obj/Debug/netcoreapp3.1/exponentia_method_forloop.csprojAssemblyReference.cache
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/obj/Debug/netcoreapp3.1/exponentia_method_forloop.csproj.CoreCompileInputs.cache
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/obj/Debug/netcoreapp3.1/exponentia_method_forloop.AssemblyInfoInputs.cache
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/obj/Debug/netcoreapp3.1/exponentia_method_forloop.AssemblyInfo.cs
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/obj/Debug/netcoreapp3.1/exponentia_method_forloop.dll
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/obj/Debug/netcoreapp3.1/exponentia_method_forloop.pdb
+/Users/fcolell/Projects/LuckyNumbers_LoopTrials/exponentia_method_forloop/obj/Debug/netcoreapp3.1/exponentia_method_forloop.genruntimeconfig.cache

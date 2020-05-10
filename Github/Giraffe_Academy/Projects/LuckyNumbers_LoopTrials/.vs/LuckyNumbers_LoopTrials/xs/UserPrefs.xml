@@ -1,0 +1,32 @@
+﻿<Properties StartupConfiguration="{982F9253-7B42-4153-87BA-A4A5C8AB6906}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="exponentia_method_forloop/Program.cs">
+    <Files>
+      <File FileName="exponentia_method_forloop/Program.cs" Line="15" Column="43" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="LuckyNumbers_LoopTrials" expanded="True">
+            <Node name="exponentia_method_forloop" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+            <Node name="LuckyNumbers_LoopTrials" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="LuckyNumbers_LoopTrials" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.LuckyNumbers__LoopTrials PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.exponentia__method__forloop PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

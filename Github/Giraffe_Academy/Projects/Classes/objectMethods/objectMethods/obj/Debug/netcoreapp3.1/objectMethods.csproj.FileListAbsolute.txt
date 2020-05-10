@@ -1,0 +1,13 @@
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\bin\Debug\netcoreapp3.1\objectMethods.exe
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\bin\Debug\netcoreapp3.1\objectMethods.deps.json
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\bin\Debug\netcoreapp3.1\objectMethods.runtimeconfig.json
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\bin\Debug\netcoreapp3.1\objectMethods.runtimeconfig.dev.json
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\bin\Debug\netcoreapp3.1\objectMethods.dll
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\bin\Debug\netcoreapp3.1\objectMethods.pdb
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\obj\Debug\netcoreapp3.1\objectMethods.csprojAssemblyReference.cache
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\obj\Debug\netcoreapp3.1\objectMethods.csproj.CoreCompileInputs.cache
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\obj\Debug\netcoreapp3.1\objectMethods.AssemblyInfoInputs.cache
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\obj\Debug\netcoreapp3.1\objectMethods.AssemblyInfo.cs
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\obj\Debug\netcoreapp3.1\objectMethods.dll
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\obj\Debug\netcoreapp3.1\objectMethods.pdb
+C:\Users\ferra\Documents\treballs_code\Github\Giraffe_Academy\Projects\Classes\objectMethods\objectMethods\obj\Debug\netcoreapp3.1\objectMethods.genruntimeconfig.cache
